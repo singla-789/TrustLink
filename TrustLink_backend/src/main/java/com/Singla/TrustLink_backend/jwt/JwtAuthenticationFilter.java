@@ -1,4 +1,4 @@
-package com.Singla.TrustLink_backend.security.jwt;
+package com.Singla.TrustLink_backend.jwt;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
